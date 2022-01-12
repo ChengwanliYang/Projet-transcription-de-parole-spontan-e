@@ -1,0 +1,348 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 180 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Locuteur1" 
+        xmin = 0 
+        xmax = 180 
+        intervals: size = 37 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.1384776836969003 
+            text = "" 
+        intervals [2]:
+            xmin = 0.1384776836969003 
+            xmax = 0.14872588580237284 
+            text = "" 
+        intervals [3]:
+            xmin = 0.14872588580237284 
+            xmax = 4.8167414407600875 
+            text = "zi zhu chan yuan+ meng bu neng jiao le zi zhu chan yuan mei zhen zheng zhu zi zen me ban shi bu shi" 
+        intervals [4]:
+            xmin = 4.8167414407600875 
+            xmax = 6.1641111564154585 
+            text = "" 
+        intervals [5]:
+            xmin = 6.1641111564154585 
+            xmax = 13.832167285480098 
+            text = "dui a+ yu shi ne zhuan men pai gong li bian er de zhe ge hua ba shi a jiu shi dao jiang nan yi zhi zhe ge zi zhu jiu zhuan men zhong hua er de hua jiang" 
+        intervals [6]:
+            xmin = 13.832167285480098 
+            xmax = 16.621238042308548 
+            text = "" 
+        intervals [7]:
+            xmin = 16.621238042308548 
+            xmax = 17.00552638648409 
+            text = "dui a" 
+        intervals [8]:
+            xmin = 17.00552638648409 
+            xmax = 18.31604484067954 
+            text = "" 
+        intervals [9]:
+            xmin = 18.31604484067954 
+            xmax = 24.199736852198715 
+            text = "ren jia hua le ji nian de gong fu+ cai zai zhe ge zi zhu yuan li bian er zi zhu chan yuan li bian er zai le hao duo de zhu zi" 
+        intervals [10]:
+            xmin = 24.199736852198715 
+            xmax = 24.466949361773207 
+            text = "" 
+        intervals [11]:
+            xmin = 24.466949361773207 
+            xmax = 48.11721530907499 
+            text = "ju shuo qian long de mu qin yi kan zhe pian zhu zi xi xiao yan kai+ qian long ye yi gao xing zhong shang le zhe ge hua jiang+ jiu shi hua ba shi AH na me qi shi ne zhe zhong zi zhu xian zai yi zhi mao ming ding ti ju you guan ren shi shuo zhe ge {rire} shuo shi {rire} ta bu shi zhu zi ma jiu shi lu wei ma zi se de zhe ge {rire} zhe ge ban yan zi zhu de jue se ke ai de lu wei zi se lu wei huo dao er shi shi ji liu shi nian dai " 
+        intervals [12]:
+            xmin = 48.11721530907499 
+            xmax = 48.372472176679345 
+            text = "" 
+        intervals [13]:
+            xmin = 48.372472176679345 
+            xmax = 65.86577769758188 
+            text = "AH shi jian hai shi ting chang de+ xian zai dang ran la+ wu shi ren fei+ zuo fei jin ri+ na me zai guang zi zhu yuan li bian er de shi hou+ gang cai shuo le dong bian er {rire} xiang tong zhou you+ zi zhu yuan li bian er zhi liu xia zi zhu de xu ming+ dang mian huang shang gei ta ma xiu na ge zi zhu can yuan he xing gong+ ye zao jiu kan bu jian la" 
+        intervals [14]:
+            xmin = 65.86577769758188 
+            xmax = 66.73885087176433 
+            text = "" 
+        intervals [15]:
+            xmin = 66.73885087176433 
+            xmax = 79.23968890699732 
+            text = "mei you bao liu xia lai na zi zhu yuan bu neng mei zhang zhu zi+ ju shuo ne+ zhe ge dang shi guang zi zhu yuan de shi hou hen duo ren ye shi you zhe yang de yi ge bei jing ren de xin yuan jiu shi+ ni ji ran yi zhu zi ming ming zhe yang de yi ge gong yuan er na zen me dei ye dei you zhu zi ya" 
+        intervals [16]:
+            xmin = 79.23968890699732 
+            xmax = 80.43394260864885 
+            text = "" 
+        intervals [17]:
+            xmin = 80.43394260864885 
+            xmax = 97.73938859850313 
+            text = "dui a {rire} dao le yi jiu ba yi nian qian hou+ zi zhu yuan de zhe ge yuan yi shi fen cheng ji zhu cong nan fang yin jin le zhu miao er shi zhe zai zhe yuan zi li bian er zai+ jing guo ji nian de nu li a zhu zi zhong yu zai bei jing suan shi yi zhi cheng gong la zhe zai dang shi de+ yuan lin jie a shi yi jian+ fen chang liao bu qi de da shi er " 
+        intervals [18]:
+            xmin = 97.73938859850313 
+            xmax = 98.90790075261233 
+            text = "" 
+        intervals [19]:
+            xmin = 98.90790075261233 
+            xmax = 111.87650453489493 
+            text = "dui yin qi le hong dong a+ dan ran a zhe shi bei jing ren de suo wei de zao hua jiu shi te bie hao de fu qi bei jing de e ye neng gou zai cheng shi li bian er xin shang dao zhe zhong {rire} zhu zi a+ neng gou kan kan zhu zi shi jian te bie xing fu de shi qing" 
+        intervals [20]:
+            xmin = 111.87650453489493 
+            xmax = 113.68404964919418 
+            text = "" 
+        intervals [21]:
+            xmin = 113.68404964919418 
+            xmax = 113.9377371040427 
+            text = "ai" 
+        intervals [22]:
+            xmin = 113.9377371040427 
+            xmax = 114.1715051740144 
+            text = "" 
+        intervals [23]:
+            xmin = 114.1715051740144 
+            xmax = 116.96659789127128 
+            text = "suo yi mei lan zhu ju bu shi hao cheng si si jun zi ma " 
+        intervals [24]:
+            xmin = 116.96659789127128 
+            xmax = 117.2565765734454 
+            text = "" 
+        intervals [25]:
+            xmin = 117.2565765734454 
+            xmax = 117.57868709192816 
+            text = "dui ba" 
+        intervals [26]:
+            xmin = 117.57868709192816 
+            xmax = 117.61134038484407 
+            text = "" 
+        intervals [27]:
+            xmin = 117.61134038484407 
+            xmax = 123.85145041811202 
+            text = "neng zai bei jing de zhe ge cheng shi dang zhong zai gong yuan er li bian er kan dao zhu zi+ ke neng xi huan zhe xie wen xue de peng you shi jian te bie xiang fu de shi er" 
+        intervals [28]:
+            xmin = 123.85145041811202 
+            xmax = 125.97960597148898 
+            text = "" 
+        intervals [29]:
+            xmin = 125.97960597148898 
+            xmax = 126.36957414685448 
+            text = "en~" 
+        intervals [30]:
+            xmin = 126.36957414685448 
+            xmax = 128.6739712143499 
+            text = "" 
+        intervals [31]:
+            xmin = 128.6739712143499 
+            xmax = 129.1183425645444 
+            text = "ai" 
+        intervals [32]:
+            xmin = 129.1183425645444 
+            xmax = 129.90216425169305 
+            text = "" 
+        intervals [33]:
+            xmin = 129.90216425169305 
+            xmax = 130.6551268173004 
+            text = "shi shi shi" 
+        intervals [34]:
+            xmin = 130.6551268173004 
+            xmax = 130.90057410886718 
+            text = "" 
+        intervals [35]:
+            xmin = 130.90057410886718 
+            xmax = 168.26272076224078 
+            text = "na me dang shi ne zhe ge zi zhu yuan dang zhong ha+ ju mu wang qu lv cao ru yin+ shu mu fan mao hua xiang niao yu suo yi+ te bie de piao liang a na me yuan zi ne zhe ge ye bi yuan lai jiu shi gang cai shuo de xi jiao na ge yuan zi da yi xie+ a ju shuo shi te bie da de yi ge yuan zi dang ran la+ zui wei guan xi de jiu shi zhe ge zhu zi a zhu zi zhe liang nian ke neng hen duo ren qu kan shuo jin nian+ bi ru shuo you yu yu shui de yuan yin a deng deng you yu qi hou de yuan yin ke neng you xie fan huang de zhe yang de yi ge qing kuang+ dan shi ren jia yuan yi gong ren yi zhi zai nu li de jin xing yi xie pei hu a qi shi ting hao de a  xi wang zan neng gou zhuo zhuang cheng zhang ba+ yuan zi li bian er de zhu zi ye you yi xie+ pu ji zhu zi zhi shi de xiao pai pai er" 
+        intervals [36]:
+            xmin = 168.26272076224078 
+            xmax = 169.39960578136055 
+            text = "" 
+        intervals [37]:
+            xmin = 169.39960578136055 
+            xmax = 180 
+            text = "jiu shi you hen duo xiao peng you neng kan dao zhu zi a dou shi zhu zi+ qi shi you yi xie zhu zi ne ke neng hui you xie jie shao a xi huan shen me a zhe shi shen me yang de zhu zi a+ suo yi wo jue de na zhe xie xiao pai pai er zuo yi xie " 
+    item [2]:
+        class = "IntervalTier" 
+        name = "Locuteur2" 
+        xmin = 0 
+        xmax = 180 
+        intervals: size = 45 
+        intervals [1]:
+            xmin = 0 
+            xmax = 4.481253926975172 
+            text = "" 
+        intervals [2]:
+            xmin = 4.481253926975172 
+            xmax = 6.993152926293129 
+            text = "jiu///bu shi ming fu qi shi de zen me ban ne" 
+        intervals [3]:
+            xmin = 6.993152926293129 
+            xmax = 14.000554245896845 
+            text = "" 
+        intervals [4]:
+            xmin = 14.000554245896845 
+            xmax = 18.485158236563315 
+            text = "na nei ge shi hou de tiao jian you xian zhi ba ying gai bu shi yi ge te rong yi de gong cheng" 
+        intervals [5]:
+            xmin = 18.485158236563315 
+            xmax = 20.498692368429 
+            text = "" 
+        intervals [6]:
+            xmin = 20.498692368429 
+            xmax = 20.91026357882537 
+            text = "en" 
+        intervals [7]:
+            xmin = 20.91026357882537 
+            xmax = 24.197929658374765 
+            text = "" 
+        intervals [8]:
+            xmin = 24.197929658374765 
+            xmax = 24.4580488703559 
+            text = "en" 
+        intervals [9]:
+            xmin = 24.4580488703559 
+            xmax = 30.558123815612706 
+            text = "" 
+        intervals [10]:
+            xmin = 30.558123815612706 
+            xmax = 30.80868576111927 
+            text = "en" 
+        intervals [11]:
+            xmin = 30.80868576111927 
+            xmax = 38.04263543470163 
+            text = "" 
+        intervals [12]:
+            xmin = 38.04263543470163 
+            xmax = 38.4661263719783 
+            text = "{rire}" 
+        intervals [13]:
+            xmin = 38.4661263719783 
+            xmax = 41.50180882027768 
+            text = "" 
+        intervals [14]:
+            xmin = 41.50180882027768 
+            xmax = 41.78347681364278 
+            text = "en" 
+        intervals [15]:
+            xmin = 41.78347681364278 
+            xmax = 48.37452876500106 
+            text = "" 
+        intervals [16]:
+            xmin = 48.37452876500106 
+            xmax = 48.68150835183134 
+            text = "ao" 
+        intervals [17]:
+            xmin = 48.68150835183134 
+            xmax = 49.776278926551385 
+            text = "" 
+        intervals [18]:
+            xmin = 49.776278926551385 
+            xmax = 50.04997157023139 
+            text = "en" 
+        intervals [19]:
+            xmin = 50.04997157023139 
+            xmax = 65.98661241510979 
+            text = "" 
+        intervals [20]:
+            xmin = 65.98661241510979 
+            xmax = 67.03441599752094 
+            text = "mei you bao liu xia lai" 
+        intervals [21]:
+            xmin = 67.03441599752094 
+            xmax = 67.27511988786915 
+            text = "" 
+        intervals [22]:
+            xmin = 67.27511988786915 
+            xmax = 67.68256643764826 
+            text = "en~" 
+        intervals [23]:
+            xmin = 67.68256643764826 
+            xmax = 79.23968890699732 
+            text = "" 
+        intervals [24]:
+            xmin = 79.23968890699732 
+            xmax = 80.43394260864885 
+            text = "hao dai zan zhong dian er  " 
+        intervals [25]:
+            xmin = 80.43394260864885 
+            xmax = 93.49247473637632 
+            text = "" 
+        intervals [26]:
+            xmin = 93.49247473637632 
+            xmax = 93.73710554746009 
+            text = "en" 
+        intervals [27]:
+            xmin = 93.73710554746009 
+            xmax = 97.80274803457469 
+            text = "" 
+        intervals [28]:
+            xmin = 97.80274803457469 
+            xmax = 99.14464316181449 
+            text = "shi bu shi ye ting hong dong de" 
+        intervals [29]:
+            xmin = 99.14464316181449 
+            xmax = 104.29826392368172 
+            text = "" 
+        intervals [30]:
+            xmin = 104.29826392368172 
+            xmax = 104.52432421576383 
+            text = "en" 
+        intervals [31]:
+            xmin = 104.52432421576383 
+            xmax = 111.87650453489493 
+            text = "" 
+        intervals [32]:
+            xmin = 111.87650453489493 
+            xmax = 113.96287337922764 
+            text = "en te bie you wen ren de run wei er zai" 
+        intervals [33]:
+            xmin = 113.96287337922764 
+            xmax = 116.8853490577758 
+            text = "" 
+        intervals [34]:
+            xmin = 116.8853490577758 
+            xmax = 117.61134038484407 
+            text = "ai shi" 
+        intervals [35]:
+            xmin = 117.61134038484407 
+            xmax = 123.67880210221949 
+            text = "" 
+        intervals [36]:
+            xmin = 123.67880210221949 
+            xmax = 130.6551268173004 
+            text = "ni bao kuo ren jia+ cai nv lin dai yu ren er na yuan er li bu shi ye shi + zhong man le zhu zi ma zhu zai xiao xiang guan ang+ en" 
+        intervals [37]:
+            xmin = 130.6551268173004 
+            xmax = 144.2851668579621 
+            text = "" 
+        intervals [38]:
+            xmin = 144.2851668579621 
+            xmax = 144.5240961491556 
+            text = "en" 
+        intervals [39]:
+            xmin = 144.5240961491556 
+            xmax = 158.4848692612453 
+            text = "" 
+        intervals [40]:
+            xmin = 158.4848692612453 
+            xmax = 158.6324962315052 
+            text = "en" 
+        intervals [41]:
+            xmin = 158.6324962315052 
+            xmax = 164.69496011048838 
+            text = "" 
+        intervals [42]:
+            xmin = 164.69496011048838 
+            xmax = 164.85831124033155 
+            text = "en" 
+        intervals [43]:
+            xmin = 164.85831124033155 
+            xmax = 168.3917076523737 
+            text = "" 
+        intervals [44]:
+            xmin = 168.3917076523737 
+            xmax = 169.40323642236345 
+            text = "o na ting hao de" 
+        intervals [45]:
+            xmin = 169.40323642236345 
+            xmax = 180 
+            text = "" 
